@@ -36,7 +36,7 @@ Example Template (include the brackets to make a checklist, fill them in as appr
   - "How could ECS improve performance in this system?"
   - "Does my current design support scalability? How can it improve?"
   
--->
+
 
 #### Next Steps
 - Tasks or experiments to focus on during the next session.
