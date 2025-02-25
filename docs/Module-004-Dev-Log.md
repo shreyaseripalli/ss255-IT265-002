@@ -30,14 +30,14 @@
 #### Free Thinking
 - Brainstorm or reflect on design ideas, architecture patterns, or potential improvements.
 - N/A
-<!--
+
 
 - Example prompts:
   - "What if the player interactions were asynchronous instead of real-time?"
   - "How could ECS improve performance in this system?"
   - "Does my current design support scalability? How can it improve?"
   
--->
+
 
 #### Next Steps
 - Tasks or experiments to focus on during the next session.
