@@ -17,7 +17,7 @@ Changes and progress steps made to the digital prototype:
 
 GAME TITLE: Floating Far From Home
 
-GAME BACKSTORY: During the year of 3050, an astronaut named Carl is assigned to visit our solar system, more specifically - neptune, in search of extraterrestrial life. However, when carl enters neptune, he presses and messes with some of the controls of the spaceship given to him and due to his poor behavior, the spaceship breaks down and Carl is unable to return to earth. Therefore, the name “Clumsy Carl” is given to him. And now it is the player’s job to take on the role of Clumsy Carl and return to earth.
+GAME BACKSTORY: During the year of 3050, an astronaut named Carl is assigned to visit our solar system, more specifically - neptune, in search of extraterrestrial life. However, when Carl enters neptune, he presses and messes with some of the controls of the spaceship given to him and due to his poor behavior, the spaceship breaks down and Carl is unable to return to earth. Therefore, the name “Clumsy Carl” is given to him. And now it is the player’s job to take on the role of Clumsy Carl and return to earth.
 
 GAME PREMISE: Floating far from home is an educational, science fiction themed, role playing game (rpg), single player board game where the player needs to accurately answer astronomy related questions in order to succeed at the game.
 
