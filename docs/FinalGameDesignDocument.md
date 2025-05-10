@@ -17,7 +17,7 @@ Changes and progress steps made to the digital prototype:
 
 GAME TITLE: Floating Far From Home
 
-GAME BACKSTORY: During the year of 3050, an astronaut named carl is assigned to visit our solar system, more specifically - neptune, in search of extraterrestrial life. However, when carl enters neptune, he presses and messes with some of the controls of the spaceship given to him and due to his poor behavior, the spaceship breaks down and carl is unable to return to earth. Therefore, the name “clumsy carl” is given to him. And now it is the player’s job to take on the role of clumsy carl and return to earth.
+GAME BACKSTORY: During the year of 3050, an astronaut named Carl is assigned to visit our solar system, more specifically - neptune, in search of extraterrestrial life. However, when carl enters neptune, he presses and messes with some of the controls of the spaceship given to him and due to his poor behavior, the spaceship breaks down and Carl is unable to return to earth. Therefore, the name “Clumsy Carl” is given to him. And now it is the player’s job to take on the role of Clumsy Carl and return to earth.
 
 GAME PREMISE: Floating far from home is an educational, science fiction themed, role playing game (rpg), single player board game where the player needs to accurately answer astronomy related questions in order to succeed at the game.
 
@@ -27,7 +27,7 @@ GAME MECHANICS:
 Trivia Questions: There are different topics of astronomy that the questions cover - such as our solar system, planetary science, constellations, moon phases, and astrophysics. There are also different kinds of formatting of the questions for each level - such as multiple choice, true/false, and image based questions.
 Adding Difficulty: As the player completes one level after another, the questions become more and more difficult and there are also more options to choose from to pick the correct answer, which also adds to the difficulty.
 Movement: The player will be able to move from one planet to another, a planet closer to earth, after completing a set of questions.
-Role Playing: When playing the game, the player will take on the role of clumsy carl.
+Role Playing: When playing the game, the player will take on the role of Clumsy Carl.
 Star Collection: There is a certain amount stars the player can collect per level based on how many answers they have gotten correct.
 Highscore System: Once the game is completed, the player can decide to play the game again to try to beat their highscore, more specifically - earn a higher amount of stars.
 
