@@ -14,4 +14,4 @@ Change Log
 
 Click the link below to download and play the Microsoft Powerpoint Trivia Game:
 
-https://shreyaseripalli.github.io/ss255-IT265-002/FloatingFarFromHome.pptm
+<https://shreyaseripalli.github.io/ss255-IT265-002/FloatingFarFromHome.pptm>
