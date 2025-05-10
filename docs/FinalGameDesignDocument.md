@@ -47,3 +47,6 @@ Important Note: Once you download the Microsoft Powerpoint Trivia Game, you will
 3. At the bottom of the General tab, select the Unblock checkbox and select OK.
 4. Once you open the Microsoft Powerpoint file, make sure to click on the 'Enable Content' button.
 5. To officially play the game, begin the slideshow.
+
+YouTube video of my Final Demo of my digital prototype link:
+<https://www.youtube.com/watch?v=QIP0HAKkuVI>
